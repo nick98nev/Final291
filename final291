@@ -5,3 +5,10 @@ public class final291 {
 // Inserts Public Class - Very Important otherwise code won't compile.
   public static void main(String[] args) {
   // Main Method is also really important for compiling also - Code won't run without it. 
+    System.out.print("Enter how many entries in class: ");
+	  Scanner input = new Scanner(System.in);
+	  int arrayLength = input.nextInt();
+	  String[] myList = new String[arrayLength];
+    System.out.print(myList.Length);
+    }
+}   
