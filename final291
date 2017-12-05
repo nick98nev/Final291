@@ -1,6 +1,6 @@
 // Step 1 Completed by Gavin Noeldner & Nick Neville
 import java.util.*;
-// Imports Java Util
+// Imports Java Util - Inserts all JAVA UTILITIES (Gives us extra things to work with.)
 public class final291 {
 // Inserts Public Class - Very Important otherwise code won't compile.
   public static void main(String[] args) {
