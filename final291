@@ -1,4 +1,7 @@
+// Step 1 Completed by Gavin Noeldner & Nick Neville
 import java.util.*;
-
+// Imports Java Util
 public class final291 {
-  
+// Inserts Public Class - Very Important otherwise code won't compile.
+  public static void main(String[] args) {
+  // Main Method is also really important for compiling also - Code won't run without it. 
