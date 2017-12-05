@@ -9,6 +9,6 @@ public class final291 {
 		Scanner input = new Scanner(System.in);
 		int arrayLength = input.nextInt();
 		String[] myList = new String[arrayLength];
-		System.out.print(myList.Length);
+		System.out.print(myList.length);
     }
 }
