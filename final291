@@ -6,9 +6,13 @@ public class final291 {
 	public static void main(String[] args) {
 		// Main Method is also really important for compiling also - Code won't run without it. 
 		System.out.print("Enter how many entries in class: ");
+		// Prints out how many entries you want to put in this program.
 		Scanner input = new Scanner(System.in);
+		// Inserted a scanner from the java UTILITY
 		int arrayLength = input.nextInt();
 		String[] myList = new String[arrayLength];
+		// Assigns length of array from user input.
 		System.out.print(myList.length);
+		// Test Line (Remove after everyone is complete)
     }
 }
