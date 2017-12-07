@@ -20,7 +20,7 @@ public class final291 {
 			System.out.print("Enter student name: ");
 			studentNames[i] = input.nextLine;
 			System.out.print("Enter student's score:  ");
-			studentScores[i] = input.nextLine;
+			studentScore[i] = input.nextDouble;
 		}
 	}
 }
