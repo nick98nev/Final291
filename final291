@@ -12,12 +12,12 @@ public class final291 {
 		int arrayLength = input.nextInt();
 		String[] myList = new String[arrayLength];
 		// Assigns length of array from user input.
-		System.out.print(myList.length);
+		// System.out.print(myList.length);
 		// Test Line (Remove after everyone is complete)
 		String[] studentNames = new String[arrayLength];
 		double[] studentScore = new double[arrayLength];
 		for (int i = 0; i < arrayLength; i++) {
-			System.out.println("Enter student name: ");
+			System.out.print("Enter student name: ");
 			studentNames[i] = input.next();
 			System.out.print("Enter student's score:  ");
 			studentScore[i] = input.nextDouble();
